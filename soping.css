@@ -1,0 +1,100 @@
+
+
+.main{  
+    background-color: white;
+
+}
+nav{
+    height: 30px;
+    width:98vw;
+    display: flex;
+    border: 2px solid;
+    gap:5vw;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(81, 79, 79);
+    color: white;
+    font-size: 20px;
+
+
+}
+.main-img{
+    width: 96vw;
+}
+.nav-p{
+    color: white;
+}
+.nav-p:hover{
+    color: red;
+}
+.main-h{
+    font-size: 4vw;
+    text-align: center;
+    color:blue;
+    box-shadow: rgba(253, 228, 228, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.Dals{
+    width: 98vw;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.box1-i{
+    height: 450px;
+    width: 300px;
+    border: 2px solid rgb(61, 59, 59);
+    margin: 20px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(133, 132, 132);
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    
+}
+.box1-i:hover{
+    background-color:white ;
+    color: #000;
+}
+.Pulses{
+    gap: 20px;
+    width: 98vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+img{
+    height: 220px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+button{
+    color: white;
+    background-color: blue;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: rgb(19, 145, 187);
+    color: #000;
+}
+
+.buy{
+    background-color: orangered;
+}
+.buy:hover{
+    background-color: red;
+}
+.i-h{
+    font-size:60px ;
+    color: rgb(3, 3, 76);
+    text-align: center;
+
+}

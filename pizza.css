@@ -1,0 +1,110 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main1{
+    
+    background-color: rgb(224, 212, 189);   
+}
+.main2{
+    background-color: rgb(254, 220, 157);
+    position: relative;
+    
+}
+.non-h1{
+    width: 99vw;
+    text-align: center;
+    background-color: rgb(26, 192, 87);
+    font-size: 2vw;
+
+}
+.non-p{
+    color: rgb(53, 52, 52);
+}
+.chicken{
+ font-size: 1.5vw;
+ margin: 2vw;
+}
+.chicken-h{
+    text-align: center;
+    margin:0px;
+    padding: 2vw;
+}
+img{
+    height: 30vw;
+    width: 70vw;
+    border: 2px solid orangered;
+    border-radius: 20px;
+    position: relative;
+    left: 13vw;
+}
+.img-p{
+    color: blue;
+    margin: 2vw;
+    font-size: 2vw;
+}
+.ingred{
+    display: flex;
+    gap: 2vw;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.Ingredients{
+    height: 40vw;
+    width: 38vw;
+    border: 2px solid green;
+    padding: 4vw;
+    border-radius: 30px;
+    font-size: 1.7vw;
+    background-color: rgb(168, 173, 163);
+
+}
+.Ingredients-h1{
+    color: blue;
+    margin: 1vw;
+}
+.Instructions{
+    height: 40vw;
+    width: 38vw;
+    border: 2px solid yellow;
+    padding: 4vw;
+    border-radius: 30px;
+    font-size: 1.7vw;
+    background-color: rgb(163, 181, 163);
+}
+.Instructions-h1{
+    color: blue;
+    margin: 1vw;
+}
+.fresh{
+    height: 10vw;
+    width: 86vw;
+    padding: 4vw;
+    margin: 1vw;
+    border-radius: 30px;
+    border: 2px solid orangered;
+    background-color: aquamarine;
+
+}
+.fresh-h{
+    color: blue;
+    margin: 1vw;
+}
+button{
+    background-color: blue;
+    height: 3vw;
+    width: 40vw;
+    color:white;
+    font-size: 2vw;
+    border-radius:20px;
+    position: relative;
+    left: 30vw;
+}
+
+hr{
+    position: relative;
+    top: 30px;
+}
+

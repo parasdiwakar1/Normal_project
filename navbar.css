@@ -1,0 +1,63 @@
+nav {
+    display: flex;
+    gap: 5vw;
+    height: 3vw;
+    width: 98.5vw;
+    text-align: center;
+    background-color: rgb(151, 149, 149);
+    font-size: 1.5vw;
+    position: relative;
+}
+
+#inputBox {
+    border-radius: 20px;
+    height: 2vw;
+    width: 15vw;
+
+}
+
+.nav-img {
+    border-radius: 50%;
+    height: 3vw;
+    width: 3vw;
+}
+
+.search-button {
+    border-radius: 20px;
+    height: 2.4vw;
+    width: 5vw;
+    font-size: 0.8vw;
+    color: white;
+    background-color: blue;
+}
+
+.search-button:hover {
+    background-color: rgb(12, 154, 215);
+}
+
+.nav-in {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-nav {
+    gap: 1vw;
+    position: relative;
+    top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.nav-i {
+    gap: 4vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p:hover {
+    color: red;
+}
